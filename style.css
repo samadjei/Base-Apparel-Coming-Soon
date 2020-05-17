@@ -50,7 +50,8 @@ body {
 }
 
 .logo {
-  margin: 6rem 0;
+  margin-top: 6.5rem;
+  margin-bottom: 13.8rem;
 }
 
 .bg-img-mobile img {
@@ -168,6 +169,7 @@ button:hover {
 
   .logo {
     margin: 3rem 0;
+    text-align: left;
   }
 
   .left-content {
@@ -176,7 +178,12 @@ button:hover {
   }
 
   h1 {
-    font-size: 4rem;
+    margin: auto;
+  }
+
+  p {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
   }
 
   .bg-img-mobile img {
